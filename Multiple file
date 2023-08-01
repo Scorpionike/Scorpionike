@@ -1,0 +1,5 @@
+// Init sales whatsapp bot
+venom.create('sales').then((salesClient) => {...});
+
+// Init support whatsapp bot
+venom.create('support').then((supportClient) => {...})
