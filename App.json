@@ -1,5 +1,5 @@
 {
-  "name": "Secktor-Md By Scorpion king"
+  "name": "Scorpion-Md By Scorpion king"
   "description": "A Whatsapp md bot built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
   "logo": "https://telegra.ph/file/ec9bc5038601821f2eb84.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Suhail Tech Info"
+      "value": "Scorpion king"
   },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
@@ -190,7 +190,7 @@
   },
   "WELCOME_MESSAGE": {
     "description": "Enter the message here which you want to see in Welcome when a new user joins a Group.",
-       "value": "@user @pp Welcome Bruhhh In @gname.....!!!!!😊👇🏻♥️\n\n_GROUP DESCRIPTION_\n@desc\n\n\n__________\n Support us by Subscribing \n Youtube.com/@suhailtechinfo0",
+       "value": "@user @pp Welcome Bruhhh In @gname.....!!!!!😊👇🏻♥️\n\n_GROUP DESCRIPTION_\n@desc\n\n\n__________\n Support us by Subscribing \n",
        "required" :false
   },
   "MONGODB_URI": {
