@@ -10,19 +10,19 @@ global.audio = '' ;
 global.video = '' ;
 global.blockJids = process.env.BLOCK_JID ||'120363023983262391@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363022922797633@g.us' ;
-global.email = 'samsamsun789@gmail.com' ;
+global.email = 'ikechukwuoyeni@gmail.com' ;
 global.github = 'https://github.com/SuhailTechInfo/Secktor-Md' ;
 global.location = 'Nigeria' ;
 global.timezone  = process.env.TIME_ZONE || 'Nigeria'
-global.gurl = 'https://youtube.com/c/SuhailTechInfo' ; // add your username
-global.sudo =  process.env.SUDO || "923184474176" ;
+global.gurl = '' ; // add your username
+global.sudo =  process.env.SUDO || "2348124031146" ;
 global.devs = "923184474176"; //Dont change it From here
-global.website = 'https://github.com/SuhailTechInfo/Secktor-Md' ; //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png' ;
+global.website = 'https://github.com/Scorpionike/scorpion md' ; //wa.me/+234812431146
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/ScorpionBot/Brandimages/main/logos/SocialLogo%201.png' ;
 module.exports = {
   sessionName: process.env.SESSION_ID || '',      //Put Your Session Id Here
-  botname: process.env.BOT_NAME || 'sᴜʜᴀɪʟ²²¹-ᴍᴅ',
-  ownername:  process.env.OWNER_NAME || `It'x Suhail`,
+  botname: process.env.BOT_NAME || 'Scorpion²²¹-MD',
+  ownername:  process.env.OWNER_NAME || `It'x Scorpion`,
   author:  process.env.PACK_AUTHER || '', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'true',
   packname:  process.env.PACK_NAME || "\t   𓅋 ₊₉₂⃗⃗₃₁᩺₈ͦ₄ͪ₄ᷧ₇ͥ₄ᷞ₁⃗₇₆ 𓃮 \n\nᴋɪss ʍᴇ...💋\n\nᴄʟօsᴇ ყσυɾ ᴇყᴇs...👁️🙈\n\nʍɪss ʍᴇ...♥️\n\n\n   -ᴘʟᴇᴀsᴇ ᴅᴏɴ'ᴛ ᴛᴀӄᴇ 🚮 \n\n--- ρυвʟɪᴄ вσт нᴇʀᴇ ---" ,
