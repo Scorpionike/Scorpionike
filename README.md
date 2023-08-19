@@ -1,5 +1,5 @@
  <p align="center">
-  <a href="https://github.com/scorpionike"><img title="Scorpion Md" src="https://img.shields.io/badge/Owner-your name-black.svg?style=for-the-badge&logo=github" width="170px" height="31</a>cardname.caliph.my.id/api?name=Secktor-MD&description=Hello,%20I%20am%20Secktor%20MD, A%20Multi-device%20Whatsapp%20Bot Created By Scorpion,%20You%20Can%20Deploy%20Me%20And%20%20enjoy%20Cool Futures&imageimag
+  <a href="https://github.com/scorpionike"><img title="Scorpion Md" src="https://img.shields.io/badge/Owner-your name-black.svg?style=for-the-badge&logo=github" width="170px" height="31</a>cardname.caliph.my.id/api?name=Scorpion-MD&description=Hello,%20I%20am%20Scorpion%20MD, A%20Multi-device%20Whatsapp%20Bot Created By Scorpion,%20You%20Can%20Deploy%20Me%20And%20%20enjoy%20Cool Futures&imageimag
 <p align="center">
 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/F0HqDfJTvz66zzApYHrHHo" target="_blank">
